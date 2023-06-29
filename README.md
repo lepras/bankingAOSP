@@ -4,7 +4,7 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 
 ## Setup
 
-0. orangefox recovery & unlocked bootloader
+0. unlocked bootloader & orangefox recovery
 1. Install LineageOS
 2. Spoof device signature with [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf)
 3. hide custom rom props with [this](https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug) module, reset them with [this](https://github.com/Magisk-Modules-Alt-Repo/sensitive_props)
@@ -36,6 +36,10 @@ https://gitlab.com/Nanolx/NanoDroid
 ## Widewine
 
 liboemcryptodisabler module 
+
+## GrapheneOS
+
+https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/
 
 ## Tests
 
