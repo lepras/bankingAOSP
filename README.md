@@ -13,7 +13,13 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 6. edit additional build.prop entries that may have rom name with [this](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) 
 7. [mindthegapps](https://wiki.lineageos.org/gapps) / microg [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
 8. Add Google play Services, Google play store, google services framework and google play protect to denylist
-9. hide magisk, freeze the app (android 13 inbuilt)
+9. hide magisk, freeze the app (android 13 inbuilt), or use [appmanager](https://github.com/MuntashirAkon/AppManager)
+10. can use work profile using [shelter](https://gitea.angry.im/PeterCxy/Shelter)
+
+## Specific hiding
+
+* [InitRcHider](https://forum.xda-developers.com/t/module-initrchider.4369285/)
+* [unregular partition mounting](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs)
 
 ## Microg & Playstore
 
@@ -41,11 +47,21 @@ liboemcryptodisabler module
 
 https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/
 
+https://grapheneos.org/articles/attestation-compatibility-guide
+
 ## Tests
 
 * [Play integrety api checker](https://play.google.com/store/apps/details?id=gr.nikolasspyr.integritycheck)
 * [yasnac](https://github.com/RikkaW/YASNAC)
 * [Ruru (Applist detector)](https://github.com/byxiaorun/Ruru)
+* [Momo](https://t.me/magiskalpha/529)
+
+## Apps hiding
+
+1. [Lsposed](https://github.com/LSPosed/LSPosed)
+2. [android faker](https://forum.xda-developers.com/t/app-xposed-8-1-12-android-faker-a-module-for-spoof-your-device.4284233/)
+3. [hidemyapp list](https://github.com/Dr-TSNG/Hide-My-Applist)
+4. [xprivacylua](https://github.com/M66B/XPrivacyLua)
 
 ## Current Target App
 
