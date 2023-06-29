@@ -11,9 +11,19 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 4. install [shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 5. [safetynet fix](https://github.com/Displax/safetynet-fix)
 6. edit additional build.prop entries that may have rom name with [this](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) 
-7. [mindthegapps](https://wiki.lineageos.org/gapps)
+7. [mindthegapps](https://wiki.lineageos.org/gapps) / microg deprecated [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
 8. Add Google play Services, Google play store, google services framework and google play protect to denylist
 9. hide magisk, freeze the app (android 13 inbuilt)
+
+## Microg & Playstore
+
+https://github.com/microg/GmsCore/wiki/Implementation-Status
+
+https://gitlab.com/Nanolx/NanoDroid
+
+## Magisk Forks
+
+[Magisk Delta](https://github.com/HuskyDG/magisk-files/blob/main/intro.md)
 
 ## Lsposed
 
@@ -36,6 +46,22 @@ liboemcryptodisabler module
 ## Current Target App
 
 [Payzapp](https://play.google.com/store/apps/details?id=com.hdfcbank.payzapp&hl=en&gl=US)
+
+## Tricks
+
+```
+1. Installing and activating the app on rom with gapps
+2. Backing up app+data using neobackup
+3. Wiping the phone, flashing clean rom
+4. Restoring the app from the backup there
+```
+
+## News / Changelog
+
+Hardware Attestation
+2023-06-07 UTC
+
+https://developer.android.com/training/articles/security-key-attestation
 
 ## References
 
