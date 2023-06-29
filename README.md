@@ -11,7 +11,7 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 4. install [shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 5. [safetynet fix](https://github.com/Displax/safetynet-fix)
 6. edit additional build.prop entries that may have rom name with [this](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) 
-7. [mindthegapps](https://wiki.lineageos.org/gapps) / microg deprecated [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
+7. [mindthegapps](https://wiki.lineageos.org/gapps) / microg [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
 8. Add Google play Services, Google play store, google services framework and google play protect to denylist
 9. hide magisk, freeze the app (android 13 inbuilt)
 
