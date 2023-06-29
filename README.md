@@ -49,7 +49,7 @@ https://privsec.dev/posts/android/banking-applications-compatibility-with-graphe
 
 ## Current Target App
 
-[Payzapp](https://play.google.com/store/apps/details?id=com.hdfcbank.payzapp&hl=en&gl=US)
+[Payzapp](https://play.google.com/store/apps/details?id=com.hdfcbank.payzapp&hl=en&gl=US) | hdfc privsec [report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/138)
 
 ## Tricks
 
