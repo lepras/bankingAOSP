@@ -10,7 +10,7 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 3. hide custom rom props with [this](https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug) module, reset them with [this](https://github.com/Magisk-Modules-Alt-Repo/sensitive_props)
 4. install [shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 5. [safetynet fix](https://github.com/Displax/safetynet-fix)
-6. edit additional build.prop entries that may have rom name with [this](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) 
+6. (optional) edit additional build.prop entries that may have rom name with [this](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) 
 7. [mindthegapps](https://wiki.lineageos.org/gapps) / microg [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
 8. Add Google play Services, Google play store, google services framework and google play protect to denylist
 9. hide magisk, freeze the app (android 13 inbuilt), or use [appmanager](https://github.com/MuntashirAkon/AppManager)
@@ -20,6 +20,7 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 
 * [InitRcHider](https://forum.xda-developers.com/t/module-initrchider.4369285/)
 * [unregular partition mounting](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs)
+* bootloader / hardware attestation TODO
 
 ## Microg & Playstore
 
@@ -30,10 +31,6 @@ https://gitlab.com/Nanolx/NanoDroid
 ## Magisk Forks
 
 [Magisk Delta](https://github.com/HuskyDG/magisk-files/blob/main/intro.md)
-
-## Lsposed
-
-[Hide My App List](https://github.com/Dr-TSNG/Hide-My-Applist)
 
 ## Debugging
 
