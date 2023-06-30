@@ -53,6 +53,12 @@ https://grapheneos.org/articles/attestation-compatibility-guide
 * [Ruru (Applist detector)](https://github.com/byxiaorun/Ruru)
 * [Momo](https://t.me/magiskalpha/529)
 
+## Debug & logging
+
+[logcat reader](https://github.com/darshanparajuli/LogcatReader)
+[Toast source](https://play.google.com/store/apps/details?id=pl.revanmj.toastsource&hl=en_US)
+[Developer assitant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant&hl=en_US&gl=US)
+
 ## Apps hiding
 
 1. [Lsposed](https://github.com/LSPosed/LSPosed)
@@ -63,6 +69,14 @@ https://grapheneos.org/articles/attestation-compatibility-guide
 ## Current Target App
 
 [Payzapp](https://play.google.com/store/apps/details?id=com.hdfcbank.payzapp&hl=en&gl=US) | hdfc privsec [report](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/138)
+
+Payzap runs once can't verify number/(loading) then this toast.
+
+```
+Your device bootloader is unlocked or verified boot state is unverified. You cannot use this application.
+```
+
+Nothing in logs
 
 ## Tricks
 
