@@ -78,6 +78,16 @@ Your device bootloader is unlocked or verified boot state is unverified. You can
 
 Nothing in logs
 
+ruru -> sees xprivacylua somehow
+
+yasnac -> basic integrety pass
+
+play integrety api checker -> everything is red
+
+**Momo**
+
+![momo](https://github.com/lepras/bankingAOSP/assets/109689648/db0d25e7-1a91-4062-bfe7-df99dd1708ca)
+
 ## Tricks
 
 ```
