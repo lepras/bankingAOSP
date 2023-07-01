@@ -11,7 +11,7 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 4. install [shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 5. [safetynet fix](https://github.com/Displax/safetynet-fix)
 6. (optional) edit additional build.prop entries that may have rom name with [this](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) 
-7. [mindthegapps](https://wiki.lineageos.org/gapps) / microg [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
+7. [mindthegapps](https://wiki.lineageos.org/gapps) / [microg](https://github.com/nift4/microg_installer_revived) [sateynetAPI](https://github.com/microg/GmsCore/issues/1875)
 8. Add Google play Services, Google play store, google services framework and google play protect to denylist
 9. hide magisk, freeze the app (android 13 inbuilt), or use [appmanager](https://github.com/MuntashirAkon/AppManager)
 10. can use work profile using [shelter](https://gitea.angry.im/PeterCxy/Shelter)
@@ -21,6 +21,15 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 * [InitRcHider](https://forum.xda-developers.com/t/module-initrchider.4369285/)
 * [unregular partition mounting](https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs)
 * bootloader / hardware attestation TODO
+
+## Effective Root Strategy for Secure Environment
+
+* https://github.com/tiann/KernelSU
+* https://github.com/android-hacker/VirtualXposed
+
+## Android Modding
+
+Can remove checks through RE though not advised.
 
 ## Microg & Playstore
 
