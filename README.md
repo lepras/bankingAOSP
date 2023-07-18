@@ -65,7 +65,9 @@ https://grapheneos.org/articles/attestation-compatibility-guide
 ## Debug & logging
 
 [logcat reader](https://github.com/darshanparajuli/LogcatReader)
+
 [Toast source](https://play.google.com/store/apps/details?id=pl.revanmj.toastsource&hl=en_US)
+
 [Developer assitant](https://play.google.com/store/apps/details?id=com.appsisle.developerassistant&hl=en_US&gl=US)
 
 ## Apps hiding
