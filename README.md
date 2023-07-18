@@ -26,6 +26,7 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 
 * https://github.com/tiann/KernelSU
 * https://github.com/android-hacker/VirtualXposed
+* [nikgapps](https://sourceforge.net/projects/nikgapps/files/)
 
 ## Android Modding
 
