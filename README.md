@@ -2,6 +2,13 @@
 
 Banking apps detect unsecure environments, and here I document how to bypass them in custom ROM's
 
+## TLDR
+
+1. kernelSU
+2. zygiskSU
+3. lsposed
+4. hidemyapplist
+
 ## Setup
 
 0. unlocked bootloader & orangefox recovery
