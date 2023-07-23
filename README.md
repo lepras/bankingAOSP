@@ -4,10 +4,13 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 
 ## TLDR
 
-1. kernelSU
-2. zygiskSU
-3. lsposed
-4. hidemyapplist
+install some custom rom with pixel like experience
+
+my choice is pixelOS
+
+strong integrety doesn't pass, momo shows init.rc, custom rom and bootloader unlocked
+
+but payzapp and everything works. netflix has L3.
 
 ## Setup
 
