@@ -4,6 +4,8 @@ Banking apps detect unsecure environments, and here I document how to bypass the
 
 ## TLDR
 
+also install updated firmware.
+
 install some custom rom with pixel like experience
 
 my choice is pixelOS
