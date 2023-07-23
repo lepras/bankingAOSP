@@ -12,6 +12,13 @@ strong integrety doesn't pass, momo shows init.rc, custom rom and bootloader unl
 
 but payzapp and everything works. netflix has L1.
 
+## strong integrety
+
+1. pixelOS
+2. KernelSU
+3. zygiskonKernelSU
+4. [USFM](https://github.com/Displax/safetynet-fix) by displax
+
 ## Setup
 
 0. unlocked bootloader & orangefox recovery
