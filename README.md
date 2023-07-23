@@ -10,7 +10,7 @@ my choice is pixelOS
 
 strong integrety doesn't pass, momo shows init.rc, custom rom and bootloader unlocked
 
-but payzapp and everything works. netflix has L3.
+but payzapp and everything works. netflix has L1.
 
 ## Setup
 
