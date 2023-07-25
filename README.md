@@ -2,6 +2,8 @@
 
 Banking apps detect unsecure environments, and here I document how to bypass them in custom ROM's
 
+https://forum.xda-developers.com/t/info-play-integrity-api-replacement-for-safetynet.4479337/
+
 ## TLDR
 
 also install updated firmware.
@@ -81,6 +83,7 @@ https://grapheneos.org/articles/attestation-compatibility-guide
 * [yasnac](https://github.com/RikkaW/YASNAC)
 * [Ruru (Applist detector)](https://github.com/byxiaorun/Ruru)
 * [Momo](https://t.me/magiskalpha/529)
+* [Android Key Attestation Sample App](https://github.com/vvb2060/KeyAttestation)
 
 ## Debug & logging
 
