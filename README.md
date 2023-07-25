@@ -16,6 +16,13 @@ strong integrety doesn't pass, momo shows init.rc, custom rom and bootloader unl
 
 but payzapp and everything works. netflix has L1.
 
+## server
+
+![server](https://github.com/lepras/bankingAOSP/assets/109689648/12e73f6d-5f47-4ac2-9664-c4419f5d324b)
+
+![certs](https://github.com/lepras/bankingAOSP/assets/109689648/cf1439e5-5166-40f1-ad99-d353acf4de6f)
+
+
 ## strong integrety
 
 1. pixelOS
