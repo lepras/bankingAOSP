@@ -1,4 +1,8 @@
-# Banking on Android Open Source Project (AOSP)
+# out-of-the-box ?
+
+https://grapheneos.org/usage#sandboxed-google-play
+
+## Banking on Android Open Source Project (AOSP)
 
 Banking apps detect unsecure environments, and here I document how to bypass them in custom ROM's
 
@@ -149,3 +153,7 @@ https://developer.android.com/training/articles/security-key-attestation
 
 * https://forum.xda-developers.com/t/hide-root-magisk-lsposed-and-pass-safetynet-on-any-rom-on-redmi-k20-pro.4552467/
 * https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy
+
+## Other Articles
+
+* https://akc3n.page/posts/banking-app-issues/
