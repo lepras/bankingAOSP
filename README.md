@@ -1,3 +1,5 @@
+https://discuss.grapheneos.org/d/8330-app-compatibility-with-grapheneos
+
 # out-of-the-box ?
 
 https://grapheneos.org/usage#sandboxed-google-play
