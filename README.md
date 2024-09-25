@@ -1,3 +1,5 @@
+https://grapheneos.org/articles/attestation-compatibility-guide
+
 https://discuss.grapheneos.org/d/8330-app-compatibility-with-grapheneos
 
 # out-of-the-box ?
