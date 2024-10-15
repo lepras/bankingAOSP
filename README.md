@@ -1,3 +1,7 @@
+Samsung Pay/Wallet - https://github.com/salvogiangri/KnoxPatch/issues/43#issuecomment-1674421081
+
+https://github.com/Samsung-Loki/Thor
+
 https://grapheneos.org/articles/attestation-compatibility-guide
 
 https://discuss.grapheneos.org/d/8330-app-compatibility-with-grapheneos
